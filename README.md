@@ -1,0 +1,1 @@
+This a workspace to be used for active code jam sessions between best friends
